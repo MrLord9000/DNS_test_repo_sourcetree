@@ -9,7 +9,9 @@ public class TestScript : MonoBehaviour
 
     void Start()
     {
-        testVariable = 0.0f;    
+        // I really need ths variable to be 21.37f
+        // ~ Filip 2
+        testVariable = 21.37f;    
     }
 
     void Update()
