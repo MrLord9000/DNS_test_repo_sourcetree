@@ -16,9 +16,4 @@ public class TestScript : MonoBehaviour
     {
         DoSomething();
     }
-
-    private void DoSomething()
-    {
-        Debug.Log("Did something!");
-    }
 }
